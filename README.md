@@ -15,10 +15,10 @@ Kidits Cafe is a neighborhood coffee shop website. The pages share a layout and 
 | Member | Assignment | Branch |
 | --- | --- | --- |
 | Member 1 (leader) | Project setup, shared layout, and Home page with image carousel | `Dev-member1-Quedit-Sabsalon` |
-| Member 2 | About page | `Dev-member2-Quedit` |
+| Member 2 | About page with Read More toggle and animated counters | `Dev-member2-Quedit` |
 | Member 3 | Contact page | `Dev-member3-Sabsalon` |
 
-About and Contact are not yet implemented on this branch. Their owners should add their routes and pages before the navigation can be fully tested.
+Contact is not yet implemented on this branch. Its owner should add the route and page before the navigation can be fully tested.
 
 ## Run locally
 

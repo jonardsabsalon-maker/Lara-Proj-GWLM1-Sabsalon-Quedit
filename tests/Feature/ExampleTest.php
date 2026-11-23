@@ -20,4 +20,18 @@ class ExampleTest extends TestCase
             ->assertSee(url('/about'))
             ->assertSee(url('/contact'));
     }
+
+    public function test_the_about_page_displays_its_content_and_assets(): void
+    {
+        $this->get('/about')
+            ->assertOk()
+            ->assertSee('About Kidits Cafe')
+            ->assertSee('Our story')
+            ->assertSee('Mission')
+            ->assertSee('Vision')
+            ->assertSee('Meet the team')
+            ->assertSee('css/about.css')
+            ->assertSee('js/about.js')
+            ->assertSee(url('/'));
+    }
 }
