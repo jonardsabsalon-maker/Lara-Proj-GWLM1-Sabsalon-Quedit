@@ -1,19 +1,19 @@
 # Kidits Cafe
 
 ## Group
-
-- Section: BSIT 2A
-- Members: John Paul Quedit, Jonard Sabsalon, third member to be confirmed
-- Group name: to be confirmed
+- Section: GWLM1
+- Members: John Paul Quedit,
+           Jonard Sabsalon
+- Group name:  Gogeta
 
 ## Theme
 
-Kidits Cafe is a neighborhood coffee shop website. The pages share a layout and navigation.
+Kidits Cafe is a neighborhood coffee shop website. 
+The pages share a layout and navigation.
 
 ## Modules and branches
 
 | Member | Assignment | Branch |
-| --- | --- | --- |
 | Member 1 (leader) | Project setup, shared layout, and Home page with image carousel | `Dev-member1-Quedit-Sabsalon` |
 | Member 2 | About page with Read More toggle and animated counters | `Dev-member2-Quedit` |
 | Member 3 | Contact page | `Dev-member3-Sabsalon` |
