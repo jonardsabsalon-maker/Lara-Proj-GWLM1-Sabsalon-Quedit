@@ -17,7 +17,7 @@ The pages share a layout and navigation.
 | Member 2 | About page with Read More toggle and animated counters | `Dev-member2-Quedit` |
 | Member 3 | Contact page | `Dev-member3-Sabsalon` |
 
-Contact is not yet implemented on this branch. Its owner should add the route and page before the navigation can be fully tested.
+The Contact page includes a responsive contact form, contact details, and client-side JavaScript validation.
 
 ## Run locally
 Requires PHP 8.4.1 or later and Composer.
