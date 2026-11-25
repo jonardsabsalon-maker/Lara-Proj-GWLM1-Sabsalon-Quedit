@@ -36,4 +36,12 @@ Open http://127.0.0.1:8000. If asked to create the database during migration, an
 
 ## Screenshots
 
-Add screenshots of the Home, About, and Contact pages before submission.
+HOME PAGE SCREENSHOT:
+<img width="1247" height="893" alt="image" src="https://github.com/user-attachments/assets/489c0c1f-5ecd-4add-8571-76079c4daf55" />
+
+
+ABOUT PAGE SCREENSHOT:
+<img width="1716" height="892" alt="image" src="https://github.com/user-attachments/assets/200b9fab-2eab-46bb-bf03-536eafea1133" />
+
+CONTACT PAGE SCREENSHOT:
+<img width="1316" height="847" alt="image" src="https://github.com/user-attachments/assets/67c3a23d-659a-4282-acfe-dc8e276dab5e" />
