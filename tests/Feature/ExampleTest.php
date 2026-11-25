@@ -34,4 +34,15 @@ class ExampleTest extends TestCase
             ->assertSee('js/about.js')
             ->assertSee(url('/'));
     }
+
+    public function test_the_contact_page_displays_the_form_and_assets(): void
+    {
+        $this->get('/contact')
+            ->assertOk()
+            ->assertSee('Contact Kidits Cafe')
+            ->assertSee('Send a message')
+            ->assertSee('hello@kiditscafe.com')
+            ->assertSee('css/contact.css')
+            ->assertSee('js/contact.js');
+    }
 }
